@@ -125,7 +125,7 @@ let makeOptionsObject = function(args) {
 let main = function() {
     const ArgumentParser = require('argparse').ArgumentParser;
     let parser = new ArgumentParser({
-        version: '1.0.0',
+        version: '1.0.1',
         addHelp: true,
         description: "A meaningless copy generator for hodlers."
     });
