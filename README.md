@@ -6,6 +6,11 @@ for your own crypto ipsum website / Sketch plugin.
 
 ### Usage
 
+```
+./cryptoipsum.js --help
+```
+
+or view the `CryptoIpsum` class in cryptoipsum.js.
 
 
 ### License
